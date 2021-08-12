@@ -7,6 +7,7 @@ name = "pypi"
 selenium = "*"
 behave = "*"
 webdriver-manager = "*"
+behave-html-formatter = "*"
 
 [dev-packages]
 

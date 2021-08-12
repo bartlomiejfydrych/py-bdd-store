@@ -1,6 +1,7 @@
 from selenium.webdriver.common import by
 from selenium.webdriver.common.by import By
 
+
 class ContactLocators:
     SUBJECT_SELECT = (By.ID, "id_contact")
     EMAIL_INPUT = (By.ID, "email")
