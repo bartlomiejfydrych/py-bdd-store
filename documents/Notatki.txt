@@ -1,0 +1,9 @@
+Strona z generatorem maili:
+https://cryptogmail.com/
+
+README:
+1. Opisać jak uruchamiać testy.
+2. Dopisać inne przydatne rzeczy
+
+Folder dokumenty:
+1. Dodać swoje notatki z konfiguracji.
