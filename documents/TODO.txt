@@ -1,6 +1,6 @@
 Strona - stories do napisania:
 [✓] Kontakt ze sklepem
-[] Logowanie
+[✓] Logowanie i wylogowanie
 [] Wyszukiwanie produktów przez wyszukirwarkę:
 - [] i ich porównanie
 - [] zakup produktu

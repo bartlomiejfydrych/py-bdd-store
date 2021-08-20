@@ -1,8 +1,4 @@
 from behave import given, when, then
-from pages import home_page
-
-from pages.home_page import HomePage
-from pages.contact_page import ContactPage
 
 option_select = 'Customer service'
 email = 'innbart92@gmail.com'
