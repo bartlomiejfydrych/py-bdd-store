@@ -1,0 +1,14 @@
+Strona - stories do napisania:
+[✓] Kontakt ze sklepem
+[] Logowanie
+[] Wyszukiwanie produktów przez wyszukirwarkę:
+- [] i ich porównanie
+- [] zakup produktu
+- [] używanie filtrów
+[] Zakup produktu ze strony głównej
+[] Dodawanie produktów do listy życzeń
+[] Zarządzanie koszykiem
+
+Pozostałe (o ile to możliwe):
+[] Rejestracja
+[] Przypominanie hasła

@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Documents
+documents/Login_mail.txt
+
 #IDE files
 .idea/
 
